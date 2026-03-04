@@ -1,4 +1,4 @@
-# 🌫️ AQI Simple Reflex Agent
+# AQI Simple Reflex Agent
 
 ## Overview
 
@@ -24,9 +24,6 @@ and the **final AQI equals the maximum sub-index**.
   Decision      Maximum pollutant sub-index
   Action        Display AQI and category
 ```
-This matches the formal definition of a **Simple Reflex Agent**: action
-depends only on the current percept.
-
 ------------------------------------------------------------------------
 
 # Pollutants Considered
@@ -155,4 +152,5 @@ https://urbanemissions.info/wp-content/uploads/docs/SIM-46-2021.pdf
 # License
 
 Educational and academic use.
+
 
