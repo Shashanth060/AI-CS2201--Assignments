@@ -119,9 +119,9 @@ The parser expects **exact uppercase keys without spaces**.
 
     aqi_agent.c
     │
-    ├── Breakpoint struct
+    ├── AQIRange struct
     ├── AQI breakpoint tables
-    ├── sub_index()   → AQI interpolation
+    ├── calculate_subAQI()   → AQI interpolation
     ├── category()    → AQI classification
     ├── read_data()   → Sensor file reader
     └── main()        → Agent loop
@@ -154,6 +154,7 @@ https://urbanemissions.info/wp-content/uploads/docs/SIM-46-2021.pdf
 # License
 
 Educational and academic use.
+
 
 
 
