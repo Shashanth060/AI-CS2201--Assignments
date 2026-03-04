@@ -51,8 +51,8 @@ breakpoint linear interpolation:
 
 Where:
 
--   **C** = pollutant concentration\
--   **BP_lo / BP_hi** = breakpoint concentration bounds\
+-   **C** = pollutant concentration
+-   **BP_lo / BP_hi** = breakpoint concentration bounds
 -   **I_lo / I_hi** = AQI bounds
 
 Final AQI:
@@ -152,6 +152,7 @@ https://urbanemissions.info/wp-content/uploads/docs/SIM-46-2021.pdf
 # License
 
 Educational and academic use.
+
 
 
 
