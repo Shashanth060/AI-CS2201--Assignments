@@ -1,6 +1,6 @@
-## I have implemented Breadth-First Search (BFS),Depth-First Search (DFS),Depth-Limited Search (DLS),Iterative Deepening DFS (IDDFS) for Missionaries and Cannibals problem 
+### I have implemented Breadth-First Search (BFS),Depth-First Search (DFS),Depth-Limited Search (DLS),Iterative Deepening DFS (IDDFS) for Missionaries and Cannibals problem 
 
-## Problem Definition
+### Problem Definition
 The Missionaries and Cannibals problem involves 3 missionaries and 3 cannibals on the left bank of a river, needing to cross to the right bank using a boat that can carry maximum 2 people. The constraint: missionaries must never be outnumbered by cannibals on either bank (unless no missionaries are present).
 
 
@@ -51,3 +51,4 @@ gcc src/DLS.c -o dls
 gcc src/IDS.c -o ids
 
 ```
+
