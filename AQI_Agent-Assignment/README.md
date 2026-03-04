@@ -72,6 +72,7 @@ https://urbanemissions.info/wp-content/uploads/docs/SIM-46-2021.pdf
 
 # AQI Categories
 
+```
   AQI Range   Category
   ----------- --------------
   0--50       Good
@@ -80,6 +81,7 @@ https://urbanemissions.info/wp-content/uploads/docs/SIM-46-2021.pdf
   201--300    Poor
   301--400    Very Poor
   401--500    Severe
+```
 
 ------------------------------------------------------------------------
 
@@ -152,6 +154,7 @@ https://urbanemissions.info/wp-content/uploads/docs/SIM-46-2021.pdf
 # License
 
 Educational and academic use.
+
 
 
 
