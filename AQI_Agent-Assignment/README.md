@@ -30,11 +30,11 @@ and the **final AQI equals the maximum sub-index**.
 
 This implementation uses six core AQI pollutants:
 
--   PM2.5\
--   PM10\
--   NO₂\
--   SO₂\
--   CO\
+-   PM2.5
+-   PM10
+-   NO₂
+-   SO₂
+-   CO
 -   O₃
 
 AQI is determined by the **highest sub-index among available
@@ -152,5 +152,6 @@ https://urbanemissions.info/wp-content/uploads/docs/SIM-46-2021.pdf
 # License
 
 Educational and academic use.
+
 
 
