@@ -1,9 +1,9 @@
 # Turing Test
 ### So the basic idea i thought is:
-A human judge talks to two participants.
-One participant is a human.
-The other participant is a computer (AI).
-The judge does not know which one is which.
+A human judge talks to two participants,
+One participant is a human,
+The other participant is a computer (AI),
+The judge does not know which one is which,
 After conversation, the judge decides who is human.
 
 ### The Design could be like this:
@@ -72,5 +72,6 @@ Access Granted / Access Denied
 - Server checks answer.
 - If correct → access allowed.
 - If wrong → try again.
+
 
 
