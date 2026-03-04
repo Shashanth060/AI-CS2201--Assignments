@@ -35,11 +35,11 @@ The Missionaries and Cannibals problem involves 3 missionaries and 3 cannibals o
 | Algorithm | Time Complexity | Space Complexity | 
 |-----------|-----------------|------------------|
 | BFS       | O(b^d)          | O(b^d)           |
-| DFS       | O(b^d)          | O(bd)            | 
+| DFS       | O(b^m)          | O(bm)            | 
 | DLS       | O(b^l)          | O(bl)            |
 | IDS       | O(b^d)          | O(bd)            | 
 
-*b = branching factor , d = solution depth, l = depth limit
+*b = branching factor , d = solution depth, l = depth limit, m = maximum depth of search tree
 ```
 ## How to Run the Code
 
@@ -51,4 +51,5 @@ gcc src/DLS.c -o dls
 gcc src/IDS.c -o ids
 
 ```
+
 
