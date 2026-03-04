@@ -1,5 +1,5 @@
 # Turing Test
-## So the basic idea i thought is:
+### So the basic idea i thought is:
 A human judge talks to two participants.
 One participant is a human.
 The other participant is a computer (AI).
@@ -72,3 +72,4 @@ Access Granted / Access Denied
 - Server checks answer.
 - If correct → access allowed.
 - If wrong → try again.
+
