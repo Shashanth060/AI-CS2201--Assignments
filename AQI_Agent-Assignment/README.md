@@ -14,6 +14,7 @@ and the **final AQI equals the maximum sub-index**.
 
 # AI Agent Model
 
+```
   Component     Implementation
   ------------- ----------------------------------
   Environment   Regional air quality
@@ -22,7 +23,7 @@ and the **final AQI equals the maximum sub-index**.
   Rules         AQI breakpoint tables
   Decision      Maximum pollutant sub-index
   Action        Display AQI and category
-
+```
 This matches the formal definition of a **Simple Reflex Agent**: action
 depends only on the current percept.
 
@@ -154,3 +155,4 @@ https://urbanemissions.info/wp-content/uploads/docs/SIM-46-2021.pdf
 # License
 
 Educational and academic use.
+
