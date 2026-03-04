@@ -6,14 +6,14 @@ The other participant is a computer (AI).
 The judge does not know which one is which.
 After conversation, the judge decides who is human.
 
-## The Design could be like this:
+### The Design could be like this:
 1. Judge Interface – where judge types questions
 2. Human Interface – where human participant replies
 3. AI Program – computer program that generates answers
 4. Message Controller – sends messages between judge and participants
 5. Result Section – stores judge’s final answer
 
-## The flow would be like this:
+### The flow would be like this:
 ```
        Judge
          ↓
@@ -25,7 +25,7 @@ Human        AI Program
          ↓
        Judge 
 ```
-## So how it works is:
+### So how it works is:
 Judge sends a question.
 
 Message Controller sends question to both human and AI.
@@ -44,7 +44,7 @@ System saves the result.
 
 # CAPTCHA
 
-## For captcha design i thought of four objects:
+### For captcha design i thought of four objects:
 - User (person visiting website)
 - CAPTCHA Generator (creates challenge)
 - Answer Checker (checks if correct)
@@ -64,7 +64,7 @@ System saves the result.
 Access Granted / Access Denied
 ```
 
-## How It Works
+### How It Works
 - User opens website.
 - Server creates CAPTCHA.
 - CAPTCHA is shown to user.
@@ -72,4 +72,5 @@ Access Granted / Access Denied
 - Server checks answer.
 - If correct → access allowed.
 - If wrong → try again.
+
 
