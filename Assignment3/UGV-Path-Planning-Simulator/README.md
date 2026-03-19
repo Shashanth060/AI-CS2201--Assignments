@@ -168,7 +168,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Shashanth060/AI-CS2201--Assignments
-cd Assignment3/UGV-Path-Planning-Simulator
+cd AI-CS2201--Assignments/Assignment3/UGV-Path-Planning-Simulator
 ```
 
 Install dependencies:
