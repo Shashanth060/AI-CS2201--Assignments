@@ -129,7 +129,7 @@ Shortest Distance: 865 km
 Shortest Path:
 Delhi -> Lucknow -> Varanasi
 ```
-![Example](docs/output.png)
+![Example](docs/Output.png)
 
 ---
 
