@@ -53,7 +53,7 @@ Dijkstra's Algorithm on Indian Cities/
 ├── indian-cities-dataset.csv
 ├── README.md
 └── docs
-    └── output.png
+    └── Output.png
 ```
 
 ---
