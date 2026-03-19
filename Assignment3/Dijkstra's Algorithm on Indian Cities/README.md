@@ -85,13 +85,13 @@ The program automatically builds a **bidirectional graph** from this dataset.
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/UGV-Path-Planning-Simulator.git
+git clone https://github.com/Shashanth060/AI-CS2201--Assignments
 ```
 
 2. Navigate to the project folder
 
 ```
-cd UGV-Path-Planning-Simulator
+cd AI-CS2201--Assignments\Assignment3\Dijkstra's Algorithm on Indian Cities
 ```
 
 3. Run the Python script
