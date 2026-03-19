@@ -167,7 +167,7 @@ Libraries:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/UGV-Path-Planning-Simulator.git
+git clone https://github.com/Shashanth060/AI-CS2201--Assignments/tree/main/Assignment3/UGV-Path-Planning-Simulator.git
 cd UGV-Path-Planning-Simulator
 ```
 
