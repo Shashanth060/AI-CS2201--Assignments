@@ -83,7 +83,7 @@ cd "AI-CS2201--Assignments\Assignment4\Q4"
 3. Run the Python script
 
 
-python cryptarithmetic_problem.py
+python cryptarithmetic-problem.py
 
 
 ---
